@@ -8,3 +8,5 @@ You have 30 minutes.
 
 What do you do next?
 
+- [Procrastinate](./procrastinate.md)
+

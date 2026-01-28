@@ -9,4 +9,4 @@ Instead of doing the assignment, you choose to watch some TV instead.
 "Oh no!"
 
 😞
-
+- [Beg for an extension](extension.md)
